@@ -1,7 +1,6 @@
 /*
 顺丰速运 v1.03
 
-顺丰签到和做任务得积分,可以换运费券和实物
 打开小程序或APP-我的-积分,点进去任务列表界面. 捉以下几种url之一,把整个url放到变量 sfsyUrl 里,多账号换行分割
 https://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/shareGiftReceiveRedirect
 https://mcs-mimp-web.sf-express.com/mcs-mimp/share/app/shareRedirect
