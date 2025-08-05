@@ -1,4 +1,4 @@
-#顺丰体验社区任务
+#顺丰体验社区任
 #账号变量：SFTY_Token
 #代理变量：SF_PROXY_API_URL（选择三分钟时长的代理）
 #Token获取：打开顺丰微信小程序——我的——往下滑找到体验社区，抓体验社区里面的cem-community参数（无需开头的Bearer，只需ey开头的），复制出来，然后设置环境变量SFTY_Token
